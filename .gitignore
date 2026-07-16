@@ -1,0 +1,8 @@
+results/
+Llama-2-7b-chat-finetune/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
